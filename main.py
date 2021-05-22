@@ -14,4 +14,17 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # this is the newest change
+
+# this is the second change
+
+# this branch is annoying
+
+def main(msg):
+	#No longer needed here
+	print(msg)
+	
+def secondary():
+	print("New function")
+
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
